@@ -1,0 +1,22 @@
+{
+  "name": "react-foundation",
+  "version": "1.0.0",
+  "description": "This is a repo for react foundation from Youtube Channel \"Codemy School\".",
+  "main": "index.js",
+  "scripts": {
+    "test": "React Foundation"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chimseryoo001/react-foundation.git"
+  },
+  "keywords": [
+    "React"
+  ],
+  "author": "Aakash Thapa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chimseryoo001/react-foundation/issues"
+  },
+  "homepage": "https://github.com/chimseryoo001/react-foundation#readme"
+}
